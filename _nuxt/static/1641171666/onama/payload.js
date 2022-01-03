@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/onama", {data:[{}],fetch:{},mutations:void 0});
